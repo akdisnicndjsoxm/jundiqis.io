@@ -6,8 +6,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-color: #000; /* 将背景颜色改为黑色 */
-    color: #fff; /* 将文本颜色改为白色，以提高可读性 */
+    background-color: #f0f0f0;
 }
 
 h1 {
@@ -31,7 +30,6 @@ h1 {
     justify-content: center;
     font-size: 2em;
     cursor: pointer;
-    color: #000; /* 将棋子颜色改为黑色 */
 }
 
 #reset {
